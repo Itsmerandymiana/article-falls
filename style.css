@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.photo-article {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+img {
+    width: 50%;
+    border: 2px solid black;
+    height: auto;
+  }
+.caption {
+    text-align: center;
+    font-style: italic;
+    color: #555;
+}
+
+article {
+    line-height: 1.6;
+}
+
+h2 {
+    color: #333;
+}
